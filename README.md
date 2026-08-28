@@ -1,9 +1,9 @@
 
-# Nice to meet ya, I'm Cam
+# Nice to meet ya, I'm Cam 👋
 
 **Creative Technologist & Motion Designer** for rides, robots, and real spaces.
 
-I've spent over a decade bringing attractions to life through motion. During that time, I've helped open four parks and worked on over 20 attractions across three continents.
+I've spent over a decade bringing attractions to life through motion. During that time, I've helped open four theme parks and worked on over 20 attractions across three continents.
 
 Now I run Pretend Simulations, building interactive experiences and tech-vis pipelines for clients in entertainment and robotics. I'm also wrapping up a Master's in CS at Georgia Tech, researching physics simulation and computer graphics.
 
