@@ -1,7 +1,7 @@
 
 # Nice to meet ya, I'm Cam 👋
 
-**Ride Animator & Technical Artist** for rides, robots, and real spaces.
+**Animator & Technical Artist** for rides, robots, and real spaces.
 
 I've spent over a decade bringing attractions to life through motion. During that time, I've helped open four theme parks and worked on over 20 attractions across three continents.
 
