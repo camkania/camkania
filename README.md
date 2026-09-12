@@ -1,7 +1,7 @@
 
 # Nice to meet ya, I'm Cam 👋
 
-**Animator & Technical Artist** for rides, robots, and real spaces.
+**Creative Director, Animator, & Technical Artist** for rides, robots, and real spaces.
 
 I've spent over a decade bringing attractions to life through motion. During that time, I've helped open four theme parks and worked on over 20 attractions across three continents.
 
@@ -16,10 +16,6 @@ Most of my professional work lives under NDA inside attractions. This account is
 ### [houdini_swept_path_optimization_tool](https://github.com/camkania/houdini_swept_path_optimization_tool)
 
 Swept path analysis for ride vehicles and moving show elements. Generates the volume a vehicle occupies through its full motion path, then reduces the resulting mesh to something a clearance review can load and interrogate. Because someone had to finally answer: "How do we know this won't hit anything?"
-
-### [blender_projection_mapping_toolkit](https://github.com/camkania/blender_projection_mapping_toolkit)
-
-Tools for authoring mapped media content against real projection geometry. So everyone knows what to expect when the projectors finally turn on. 
 
 ### [blender_snapshot_tool](https://github.com/camkania/blender_snapshot_tool)
 
