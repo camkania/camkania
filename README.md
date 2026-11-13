@@ -37,6 +37,6 @@ Snapshots animated objects at each frame across an interval, turning a motion pa
 
 ## Currently
 
-[Pretend Simulations](https://camkania.com) is always looking for new clients and collaborators. Ride design, experiential media, attraction and museum content, show systems, real-time tooling.
+[Pretend Simulations](https://pretendsims.com/) is always looking for new clients and collaborators. Ride design, experiential media, attraction and museum content, show systems, real-time tooling.
 
-[camkania.com](https://camkania.com) · [LinkedIn](https://www.linkedin.com/in/camkania/) · [Book time](https://calendly.com/camkania) · camkania@gmail.com
+[camkania.com](https://camkania.com) · [LinkedIn](https://www.linkedin.com/in/camkania/) · [Book time](https://calendly.com/camkania-pretendsims) · cam@camkania.com
